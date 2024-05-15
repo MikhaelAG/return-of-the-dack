@@ -7,7 +7,7 @@ am_ingress = {
         protocol = "tcp"
         port = [80]
     }
-    ingress3 = {
+    "ingress3" = {
         protocol = "tcp"
         port = [22]
     }
